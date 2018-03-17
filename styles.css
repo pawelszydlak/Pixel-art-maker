@@ -1,0 +1,53 @@
+body {
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+}
+
+h1 {
+    padding-top: 0.5em;
+    font-family: 'VT323', monospace;
+    font-size: 70px;
+    color: #003b50;
+    margin: 0.2em;
+}
+
+h2 {
+    margin: 1em 0 0.25em;
+}
+
+h2:first-of-type {
+    margin-top: 0.5em;
+}
+
+table,
+tr,
+td {
+    border: 1px solid black;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+tr {
+    height: 20px;
+}
+
+td {
+    width: 20px;
+}
+
+input[type=number] {
+    width: 6em;
+}
+html {
+    background-image: url("http://bgfons.com/uploads/leather/leather_texture5775.jpg");
+}
+
+#submitButton {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 500;
+  margin-left: 20px;  
+}
